@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Siyuan Liu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Siyuan
+last_name: Liu
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Rotman School of Management, University of Toronto
+    url: https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/siyuan-liu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,16 +36,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:alex.johnson@meta.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -54,8 +54,8 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Economics (AI Focus)
+    institution: University of Toronto
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
@@ -89,14 +89,14 @@ work:
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  # - position: AI Research Intern
+  #   company_name: OpenAI
+  #   company_url: 'https://openai.com/'
+  #   company_logo: ''
+  #   date_start: 2019-06-01
+  #   date_end: 2019-12-31
+  #   summary: |
+  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -132,11 +132,11 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Spanish
+#     percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
