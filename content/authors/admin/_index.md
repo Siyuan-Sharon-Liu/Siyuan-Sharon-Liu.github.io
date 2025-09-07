@@ -164,7 +164,7 @@ interests:
 #     icon: hero/academic-cap
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
-# ---
+---
 
 Welcome to my website!
 
