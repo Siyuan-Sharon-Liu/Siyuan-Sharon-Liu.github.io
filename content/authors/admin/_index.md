@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Siyuan Liu 刘思源
+title: Siyuan Liu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Siyuan
 last_name: Liu
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: 刘思源
 
 # Status emoji
 status:
