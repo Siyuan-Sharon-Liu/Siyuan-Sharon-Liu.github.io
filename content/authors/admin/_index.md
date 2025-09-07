@@ -3,7 +3,7 @@
 title: Siyuan Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Siyuan Liu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Siyuan
