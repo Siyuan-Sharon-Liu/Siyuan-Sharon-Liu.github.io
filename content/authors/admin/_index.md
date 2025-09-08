@@ -12,9 +12,9 @@ last_name: Liu
 # Pronouns (optional)
 pronouns: 刘思源
 
-# Status emoji
-status:
-  icon: 🚀
+# # Status emoji
+# status:
+#   icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -171,3 +171,5 @@ Welcome to my website!
 I am a Ph.D. Candidate at the Rotman School of Management, University of Toronto. My research lies at the intersection of urban economics, industrial organization, and development economics. I am particularly interested in the spatial effects of online platforms on the urban economy.
 
 Prior to my doctoral studies, I received my bachelor's degrees in economics from Peking University, and my master's degree in social sciences from the University of Chicago.
+
+My email is siyuann.liu@rotman.utoronto.ca
