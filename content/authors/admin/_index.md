@@ -52,6 +52,10 @@ interests:
   - Industrial Organization
   - Development Economics
 
+headings:
+  about: Welcome to my website!
+  education: Academic Background
+  interests: Research Interests
 
 # education:
 #   - area: PhD Candidate
@@ -165,8 +169,6 @@ interests:
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
 ---
-
-## Welcome to my website!
 
 I am a Ph.D. Candidate at the Rotman School of Management, University of Toronto. My research lies at the intersection of urban economics, industrial organization, and development economics. I am particularly interested in the spatial effects of online platforms on the urban economy.
 
