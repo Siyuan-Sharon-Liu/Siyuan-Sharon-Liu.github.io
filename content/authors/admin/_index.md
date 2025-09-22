@@ -52,10 +52,11 @@ interests:
   - Industrial Organization
   - Development Economics
 
-headings:
-  about: Welcome to my website!
-  education: Academic Background
-  interests: Research Interests
+content:
+  headings:
+    about: Welcome to my website!
+    education: Academic Background
+    interests: Research Interests
 
 # education:
 #   - area: PhD Candidate
