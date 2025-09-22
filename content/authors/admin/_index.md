@@ -52,12 +52,6 @@ interests:
   - Industrial Organization
   - Development Economics
 
-content:
-  headings:
-    about: Welcome to my website!
-    education: Academic Background
-    interests: Research Interests
-
 # education:
 #   - area: PhD Candidate
 #     institution: University of Toronto
