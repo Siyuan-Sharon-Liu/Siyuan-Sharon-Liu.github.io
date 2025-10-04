@@ -13,8 +13,8 @@ last_name: Liu
 pronouns: 刘思源
 
 # Status emoji
-status:
-  icon: ☕
+# status:
+#   icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,68 +52,53 @@ interests:
   - Industrial Organization
   - Development Economics
 
-# education:
-#   - area: PhD Candidate
-#     institution: University of Toronto
-#     date_start: 2020-Aug
-#     date_end: (expected) 2026
-#     summary: |
-#       Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://example.com/thesis.pdf'
-#   - area: MS Computer Science
-#     institution: Carnegie Mellon University
-#     date_start: 2013-09-01
-#     date_end: 2015-05-31
-#     summary: |
-#       GPA: 4.0/4.0
+education:
+  - area: PhD in Economic Analysis and Policy
+    institution: University of Toronto, Rotman School of Management
+    date_start: 2020-08
+    date_end: (expected) 2026
+    summary: |
+      Research Interests: urban economics, industrial organization, development economics
+  - area: MA in the Social Science, Concentration in Economics
+    institution: The University of Chicago
+    date_start: 2018-08
+    date_end: 2019-08
+    summary: |
+      Social Sciences Scholarship
+  - area: Bachelor of Economics
+    institution: Peking University
+    date_start: 2014-09
+    date_end: 2018-07
+    summary: |
+      Outstanding Graduate (2018), Arawana Scholarship (2016)
 
-#       Specialized in machine learning and robotics.
-#   - area: BS Computer Science
-#     institution: MIT
-#     date_start: 2009-09-01
-#     date_end: 2013-05-31
-#     summary: |
-#       GPA: 3.9/4.0
+work:
+  - position: Full-time Research Assistant
+    company_name: Yale University
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-07
+    date_end: 2020-07
 
-#       Minored in Mathematics. President of AI Club.
 
-# work:
-#   - position: Senior AI Research Scientist
-#     company_name: Meta AI
-#     company_url: 'https://ai.meta.com/'
-#     company_logo: ''
-#     date_start: 2020-01-01
-#     date_end: ''
-#     summary: |2-
-#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  # - position: AI Research Intern
-  #   company_name: OpenAI
-  #   company_url: 'https://openai.com/'
-  #   company_logo: ''
-  #   date_start: 2019-06-01
-  #   date_end: 2019-12-31
-  #   summary: |
-  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# # Skills
-# # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Programming
+        description: 'Stata, Python, MATLAB, R, GIS, SQL'
+      - name: Software & Tools
+        description: 'LaTeX, CLI, GitHub, AI agents'
+#   - name: Modeling Skills
 #     items:
-#       - name: Python & PyTorch
-#         description: ''
-#         percent: 95
-#         icon: code-bracket
+#       - name: Causal Inference
+#         description: 'DID, IV (Bartik and traditional IV), RDD, synthetic control, Heckman two-stages'
+#       - name: Structural Models
+#         description: 'BLP demand estimation, EK, Melitz, spatial equilibrium and sorting'
 #       - name: Machine Learning
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: Cloud Computing (AWS/GCP)
-#         description: ''
-#         percent: 85
-#         icon: cloud
+#         description: 'LASSO, KNN, PCA'
+#   - name: Hobbies
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -165,8 +150,13 @@ interests:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a Ph.D. Candidate at the Rotman School of Management, University of Toronto. My research lies at the intersection of urban economics, industrial organization, and development economics. I am particularly interested in the spatial effects of online platforms on the urban economy.
+I am a Ph.D. Candidate at the Rotman School of Management, University of Toronto. 
 
-Prior to my doctoral studies, I received my bachelor's degrees in economics from Peking University, and my master's degree in social sciences from the University of Chicago.
+My research addresses the question of how to foster high-quality economic development in the digital age, focusing specifically on the spatial consequences of new technologies. I analyze the impacts of both digital innovations, such as food delivery platforms, and physical infrastructure on local economic outcomes.
+<!-- I am particularly interested in how online platforms reshape urban real estate markets. My work also examines how improvements in transportation infrastructure and deregulation influence firm dynamics and structural transformation, with a focus on developing economies. -->
 
-My email is siyuann.liu@rotman.utoronto.ca
+My job market paper investigates the causal impact of food delivery platforms on the urban retail landscape, exploiting the staggered entry of these platforms across U.S. cities to identify effects on real estate prices, tenant composition, and space demand.
+
+<!-- Prior to my doctoral studies, I received my bachelor's degrees in economics from Peking University, and my master's degree in social sciences from the University of Chicago. -->
+
+My email is siyuann.liu@rotman.utoronto.ca (Siyuan with 2 'n's).
