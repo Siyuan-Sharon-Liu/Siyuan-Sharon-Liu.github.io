@@ -16,14 +16,14 @@ sections:
 
         ### National Road Upgrading and Structural Transformation: Evidence from Ugandan Households
 
-        Ian Herzog, Siyuan Liu, and Yue Yu
+        _Ian_ _Herzog_, _Siyuan_ _Liu_, and _Yue_ _Yu_
         
         Sub-Saharan Africa is urbanizing, but a significant portion of the urban population still works in agriculture. We argue that this is because smaller cities are isolated from national markets and trade. We test this claim using individual panel data and Uganda’s doubling of paved roads, which improved remote areas’ market access. We find that market access causes workers to quit family farms for specialized paid employment outside of agriculture. Effects concentrate in peripheral areas, households with comparative advantage in off-farm work, and reflect off-farm opportunities rather than a reduced demand for farm output. We also find that market access leads remote households to simplify farming techniques and scale back farming. Findings are consistent with reliable transport enabling trade with major markets, creating opportunities to specialize according to comparative advantage.
 
 
         ### Ripple Effects of Deregulating Startup Investment with Entrepreneurial Spillovers
 
-        Zijun Cheng, Siyuan Liu, and Ruichi Xiong
+        _Zijun_ _Cheng_, _Siyuan_ _Liu_, and _Ruichi Xiong_
 
         Regulatory constraints in developing countries often distort investment decisions, hindering firm entry and growth. These distortions are particularly detrimental to startups, as early-stage inefficiencies can have lasting performance effects. This paper examines a major deregulation of startup investment`:` China's 2006 Company Law reform, which significantly lowered minimum registered capital requirements for incorporation. Using a difference-in-differences strategy, we find the reform spurred greater firm entry in industries previously more constrained by the capital requirement. Further analysis reveals heterogeneous impacts`:` a substantial increase in firms below the old capital threshold, a sharp decrease of firms bunched at the threshold, and a modest increase above it. This pattern suggests positive spillovers from new, smaller firms to larger ones. We also find that the reform promoted greater co-location of firms across capital levels, indicating that agglomeration economies from the influx of small firms contributed to the growth of larger ones. Finally, we show the reform improved startup survival rates, particularly for firms whose initial capital choices were likely distorted by the previous regulation.
 

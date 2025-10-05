@@ -152,7 +152,7 @@ skills:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a Ph.D. Candidate at the [**Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/). 
+I am a Ph.D. Candidate at the [**Rotman School of Management, University of Toronto**](https://www.rotman.utoronto.ca/). 
 
 My research addresses the question of how to foster high-quality economic development in the digital age, focusing specifically on the spatial consequences of new technologies. I analyze the impacts of both digital innovations, such as food delivery platforms, and physical infrastructure on local economic outcomes. 
 
