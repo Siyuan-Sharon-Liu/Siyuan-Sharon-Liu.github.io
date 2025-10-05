@@ -1,9 +1,10 @@
 ---
 title: Research
 type: landing
-spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '10px', '20px', '10px']
+# spacing:
+#     # Customize the section spacing. Order is top, right, bottom, left.
+#     padding: ['20px', '10px', '20px', '10px']
+show_read_time: false
 ---
 
 ### Space and Cyberspace`:` The Impact of Food Delivery Platforms on Retail Real Estate
