@@ -63,7 +63,7 @@ education:
   - area: MA in the Social Science, Concentration in Economics
     institution: The University of Chicago
     date_start: 2018-08
-    date_end: 2019-08
+    date_end: 2019-07
     summary: |
       Social Sciences Scholarship
   - area: Bachelor of Economics
