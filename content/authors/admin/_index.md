@@ -52,25 +52,25 @@ interests:
   - Industrial Organization
   - Development Economics
 
-education:
-  - area: PhD in Economic Analysis and Policy
-    institution: University of Toronto, Rotman School of Management
-    date_start: 2020-08
-    date_end: (expected) 2026
-    summary: |
-      Research Interests: urban economics, industrial organization, development economics
-  - area: MA in the Social Science, Concentration in Economics
-    institution: The University of Chicago
-    date_start: 2018-08
-    date_end: 2019-08
-    summary: |
-      Social Sciences Scholarship
-  - area: Bachelor of Economics
-    institution: Peking University
-    date_start: 2014-09
-    date_end: 2018-07
-    summary: |
-      Outstanding Graduate (2018), Arawana Scholarship (2016)
+# education:
+#   - area: PhD in Economic Analysis and Policy
+#     institution: University of Toronto, Rotman School of Management
+#     date_start: 2020-08
+#     date_end: (expected) 2026
+#     summary: |
+#       Research Interests: urban economics, industrial organization, development economics
+#   - area: MA in the Social Science, Concentration in Economics
+#     institution: The University of Chicago
+#     date_start: 2018-08
+#     date_end: 2019-08
+#     summary: |
+#       Social Sciences Scholarship
+#   - area: Bachelor of Economics
+#     institution: Peking University
+#     date_start: 2014-09
+#     date_end: 2018-07
+#     summary: |
+#       Outstanding Graduate (2018), Arawana Scholarship (2016)
 
 # work:
 #   - position: Full-time Research Assistant
