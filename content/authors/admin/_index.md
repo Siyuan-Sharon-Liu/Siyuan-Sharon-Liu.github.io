@@ -55,33 +55,33 @@ interests:
 education:
   - area: PhD in Economic Analysis and Policy
     institution: University of Toronto, Rotman School of Management
-    date_start: 2020-08
-    date_end: (expected) 2026
+    date_start: 2020-08-01
+    date_end: ''
     summary: |
       Research Interests: urban economics, industrial organization, development economics
 
   - area: MA in the Social Science, Concentration in Economics
     institution: The University of Chicago
-    date_start: 2018-08
-    date_end: 2019-06
+    date_start: 2018-08-01
+    date_end: 2019-06-01
     summary: |
       Social Sciences Scholarship
   - area: Bachelor of Economics
     institution: Peking University
-    date_start: 2014-09
-    date_end: 2018-07
+    date_start: 2014-09-01
+    date_end: 2018-07-01
     summary: |
       Outstanding Graduate (2018), Arawana Scholarship (2016)
 
-# work:
-#   - position: Full-time Research Assistant
-#     company_name: Yale University
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2019-07
-#     date_end: 2020-07
-#     summary: |
-#       XXX
+work:
+  - position: Full-time Research Assistant
+    company_name: Yale University
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-07-01
+    date_end: 2020-07-02
+    summary: |
+      XXX
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
