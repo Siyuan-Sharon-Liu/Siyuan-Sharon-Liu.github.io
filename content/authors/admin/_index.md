@@ -53,22 +53,22 @@ interests:
   - Development Economics
 
 education:
-  - area: PhD in Economic Analysis and Policy
-    institution: University of Toronto
+  - area: University of Toronto
+    institution: Ph.D in Economic Analysis and Policy
     date_start: 2020-09-01
     date_end: ''
     summary: |
       Research Interests: urban economics, industrial organization, development economics
 
-  - area: MA - Economics
-    institution: The University of Chicago
+  - area: University of Chicago 
+    institution: MA in Economics
     date_start: 2018-08-01
     date_end: 2019-06-01
     summary: |
       Social Sciences Scholarship
 
-  - area: Bachelor of Economics
-    institution: Peking University
+  - area: Peking University
+    institution: Bachelor in Economics
     date_start: 2014-09-01
     date_end: 2018-07-01
     summary: |
