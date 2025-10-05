@@ -7,9 +7,6 @@ main:
   - name: About Me
     url: /
     weight: 10
-  - name: Research
-    url: research/
-    weight: 11
   # - name: Talks
   #   url: /#talks
   #   weight: 12
@@ -25,3 +22,6 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
+  - name: Research
+    url: research/
+    weight: 11
