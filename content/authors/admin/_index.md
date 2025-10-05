@@ -13,8 +13,8 @@ last_name: Liu
 pronouns: 刘思源
 
 # Status emoji
-# status:
-#   icon: ☕
+status:
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
