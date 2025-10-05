@@ -3,7 +3,7 @@ title: ''
 cms_exclude: true
 
 # View.
-view: showcase
+view: citation
 show_read_time: false
 
 # Optional header image (relative to `static/media/` folder).
