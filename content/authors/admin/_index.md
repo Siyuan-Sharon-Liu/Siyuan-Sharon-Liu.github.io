@@ -14,7 +14,7 @@ pronouns: 刘思源
 
 # Status emoji
 status:
-  icon: ☕
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,12 +55,12 @@ interests:
 education:
   - area: PhD in Economic Analysis and Policy
     institution: University of Toronto, Rotman School of Management
-    date_start: 2020-08-01
+    date_start: 2020-09-01
     date_end: ''
     summary: |
       Research Interests: urban economics, industrial organization, development economics
 
-  - area: MA in the Social Science, Concentration in Economics
+  - area: MA - Economics
     institution: The University of Chicago
     date_start: 2018-08-01
     date_end: 2019-06-01
@@ -74,14 +74,13 @@ education:
       Outstanding Graduate (2018), Arawana Scholarship (2016)
 
 work:
-  - position: Full-time Research Assistant
-    company_name: Yale University
+  - position: Pre-doctoral Research Associate
+    company_name: Yale University, Tobin Center
     company_url: ''
     company_logo: ''
     date_start: 2019-07-01
     date_end: 2020-07-02
-    summary: |
-      XXX
+    summary: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -154,11 +153,12 @@ skills:
 
 I am a Ph.D. Candidate at the Rotman School of Management, University of Toronto. 
 
-My research addresses the question of how to foster high-quality economic development in the digital age, focusing specifically on the spatial consequences of new technologies. I analyze the impacts of both digital innovations, such as food delivery platforms, and physical infrastructure on local economic outcomes.
+My research addresses the question of how to foster high-quality economic development in the digital age, focusing specifically on the spatial consequences of new technologies. I analyze the impacts of both digital innovations, such as food delivery platforms, and physical infrastructure on local economic outcomes. 
+
 <!-- I am particularly interested in how online platforms reshape urban real estate markets. My work also examines how improvements in transportation infrastructure and deregulation influence firm dynamics and structural transformation, with a focus on developing economies. -->
 
-My job market paper investigates the causal impact of food delivery platforms on the urban retail landscape, exploiting the staggered entry of these platforms across U.S. cities to identify effects on real estate prices, tenant composition, and space demand.
+<!-- My job market paper investigates the causal impact of food delivery platforms on the urban retail landscape, exploiting the staggered entry of these platforms across U.S. cities to identify effects on real estate prices, tenant composition, and space demand. -->
 
 <!-- Prior to my doctoral studies, I received my bachelor's degrees in economics from Peking University, and my master's degree in social sciences from the University of Chicago. -->
 
-My email is siyuann.liu@rotman.utoronto.ca (Siyuan with 2 'n's).
+My email is siyuann.liu@rotman.utoronto.ca (Siyuan with 2 "n"s).
