@@ -73,15 +73,15 @@ education:
     summary: |
       Outstanding Graduate (2018), Arawana Scholarship (2016)
 
-work:
-  - position: Full-time Research Assistant
-    company_name: Yale University
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-07
-    date_end: 2020-07
-    summary: |
-      XXX
+# work:
+#   - position: Full-time Research Assistant
+#     company_name: Yale University
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2019-07
+#     date_end: 2020-07
+#     summary: |
+#       XXX
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
