@@ -44,8 +44,8 @@ profiles:
     url: https://www.linkedin.com/in/siyuan-liu-3418952a6/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=alexjohnson
-  # # - icon: academicons/orcid
-  #   url: https://orcid.org/0000-0002-1825-0097
+  - icon: custom/cv
+    url: uploads/resume.pdf
 
 interests:
   - Urban Economics
@@ -66,6 +66,7 @@ education:
     date_end: 2019-06-01
     summary: |
       Social Sciences Scholarship
+
   - area: Bachelor of Economics
     institution: Peking University
     date_start: 2014-09-01
