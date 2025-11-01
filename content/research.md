@@ -29,8 +29,16 @@ sections:
 
         Regulatory constraints in developing countries often distort investment decisions, hindering firm entry and growth. These distortions are particularly detrimental to startups, as early-stage inefficiencies can have lasting performance effects. This paper examines a major deregulation of startup investment`:` China's 2006 Company Law reform, which significantly lowered minimum registered capital requirements for incorporation. Using a difference-in-differences strategy, we find the reform spurred greater firm entry in industries previously more constrained by the capital requirement. Further analysis reveals heterogeneous impacts`:` a substantial increase in firms below the old capital threshold, a sharp decrease of firms bunched at the threshold, and a modest increase above it. This pattern suggests positive spillovers from new, smaller firms to larger ones. We also find that the reform promoted greater co-location of firms across capital levels, indicating that agglomeration economies from the influx of small firms contributed to the growth of larger ones. Finally, we show the reform improved startup survival rates, particularly for firms whose initial capital choices were likely distorted by the previous regulation.
 
-    ## Work in progress
-
     design:
       columns: "1"
+    
+# --- SECTION 2: WORK IN PROGRESS (New Markdown Block) ---
+  - block: markdown
+    id: work-in-progress-title
+    content:
+      text: |
+        ## Work in progress
+    design:
+      columns: "1"
+    
 ---
